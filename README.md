@@ -19,7 +19,7 @@ Antes de instalar o programa, certifique-se de que você possui o seguinte:
 
 2. **Navegue até o diretório do projeto**:
    ```bash
-   cd c:/projetos/Docling
+   cd Docling
    ```
 
 3. **Instale as dependências**:
